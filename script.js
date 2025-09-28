@@ -13,7 +13,7 @@ const weatherSummaryImg = document.querySelector('.weather-summary-img');
 const currentDateTxt = document.querySelector('.current-date-text');
 const forecastItemContainer = document.querySelector('.forecast-item-container');
 
-
+//Nayab is good boy
 
 
 
